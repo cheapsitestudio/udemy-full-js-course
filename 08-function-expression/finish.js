@@ -10,3 +10,11 @@
  *
  * 5. Результат вызовов функции выведите в консоль
  */
+
+function greeting(name) {
+    console.log(`Hi, ${name}!`);
+}
+
+greeting('Anatolii');
+
+greeting('Horobets');
