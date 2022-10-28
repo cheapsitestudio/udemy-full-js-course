@@ -8,3 +8,8 @@
  *
  * 4. Вызовите функцию
  */
+
+function myName() {
+    console.log('Anatolii Horobets');
+}
+myName();
