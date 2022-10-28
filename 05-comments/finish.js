@@ -7,3 +7,12 @@
  *
  * 3. Создайте многострочный комментарий
  */
+
+
+// One-line comment
+
+const x = 0; // this is a JS code
+
+/* Multiline 
+comment */
+
